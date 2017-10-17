@@ -1,0 +1,1 @@
+nova boot --image trusty-server --flavor m1.small --nic net-name=y-net --nic net-name=x-net --key-name $1 r4

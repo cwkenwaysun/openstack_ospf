@@ -1,0 +1,1 @@
+nova delete r2
