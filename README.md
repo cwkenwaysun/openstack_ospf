@@ -1,6 +1,4 @@
 # CloudLab: Cloud Computing and Network Function Virtualization #
-Name: Chien-Wei Sun
-uid: u1141797
 
 ## Getting Started ##
 1. Put the tarball in ctl node.
